@@ -12,11 +12,6 @@ module.exports = {
     },
     extend: {
       colors: {
-        text_1: "rgb(var(--text-1))",
-        text_2: "rgb(var(--text-2))",
-        text_3: "rgb(var(--text-3))",
-        background_1: "rgb(var(--background-1))",
-        background_1_hover: "rgb(var(--background-1) / 0.5)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
