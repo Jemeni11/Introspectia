@@ -2,7 +2,8 @@ const features: { id: number; feature: string; details: string }[] = [
   {
     id: 0,
     feature: "User Registration and Login",
-    details: "Allow users to create accounts and log in securely to access their personal journal.",
+    details:
+      "Allow users to create accounts and log in securely to access their personal journal.",
   },
   {
     id: 1,
